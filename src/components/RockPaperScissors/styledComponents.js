@@ -133,13 +133,13 @@ export const PlayAgainButton = styled.button`
   background-color: #ffffff;
   color: #223a5f;
   font-family: 'Bree Serif';
+  cursor: pointer;
 
   @media screen and (min-width: 768px) {
     height: 80px;
     width: 300px;
     border-radius: 15px;
     outline: none;
-    cursor: pointer;
     font-size: 24px;
   }
 `
